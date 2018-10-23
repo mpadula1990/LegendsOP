@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="with=devide-with, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie-edge">
+  <link rel="stylesheet" href="../css/bootstrap.css">
+  <link rel="stylesheet" href="../css/custom_styles.css">
+  <title>LegendsOP - Estadisitcas - ligue of legends - lol - partida en vivo - replays - espectar en vivo - analisis de campeones</title>
+  <script src="../js/legendsop.js" charset="utf-8"></script>
+</head>
+<body>
+  <!-- CONTENIDO-->
+  <div class="container-fluid">
+    <header class="row cabecera align-items-center">
+      <!--AGREGAR UN BANER HORIZONTAL EN EL MEDIO Y UN BUSCADOR AL FINAL ANTES DEL BOTON DE LAS PREFERENCIAS-->
+      <section class="col-4">
+        <img src="img/logos/logo.png">
+      </section>
+      <section class="col-7">
+
+      </section>
+      <section class"col-1 align-self-star">
+        <button type="button" data-toggle="modal" data-target="#modalregion" class="btn btn-outline-warning"><img src="img/icons/spain.png" style="width:30px;">  <span class="badge badge-primary region-text">LAS</span></button>
+        <section class="modal fade" id="modalregion">
+          <section class="modal-dialog">
+            <section class="modal-content">
+              <header class="modal-header">
+                <h4 class="modal-title">Preferencias</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+              </header>
+              <section class="modal-body">
+                <section class="modal-body"><span>Regiones</span></section><div class="border-top"></div>
+                <section class="modal-body"><span>Idiomas</span></section>
+
+              </section>
+              <footer class="modal-footer">
+                <button type="button" class="btn btn-success" data-dismiss="modal">Guardar</button>
+              </footer>
+            </section>
+          </section>
+        </section>
+      </section>
+    </header>
+    <nav class="row  navbar navbar-expand-sm shadow border border-warning border-left-0 border-right-0 custom_nav">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#uno">
+        <span class="navbar-toggler-icon "></span>
+      </button>
+      <div class="collapse navbar-collapse" id="uno">
+        <ul class="navbar-nav">
+
+          <li class="nav-item"><a href="#" class="nav-link">Inicio</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Estadisicas de Campeones</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Estadisicas de Campeones (PRO)</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Rankings</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Partidas (PRO)</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Replays (PRO)</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Torneos</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Competitivo</a></li>
+
+        </ul>
+      </div>
+    </nav>
+    <!--NAV PARA ELEJIR INVOCADOR EN CASO DE SELECCION MULTIPLE - ALFA - -->
+    <nav class="row navbar-expand-sm shadow navbar-light bg-dark custom_ht_1">
+      <span id="SummName" class="navbar-text "><%=sum %> - <%=id %></span>
+    </nav>
+    <!--Seccion de Datos de perfil Horizontal 100% de la pantalla-->
+    <!--seccion filla con 3 o 4 columnas con stats a modo de lista.
+    (WINRATE POR ROL y TIPO DE COLA - ESTADISTICAS DE CAMPOENES DETALLADAS Y PAGINADAS CON SELECTOR PARA LISTAR POR WINRATE O POR CANTIDAD DE JUGADAS, flitro de ranked y flex - )-->
+    <!--*NAV BAR (TAG STYLE) CON: PERFIL (donde se mostrara el historial entre otros),
+    PARTIDA EN VIVO(que lo va a autodetectar y mostrar notificion) -->
+    <!--Historial va mostrar una lista a la izquierda y en el centro un cuadro con todos los detalles de la partida a la derecha cuadros con rankings de daño recibido, hecho, horo ganado y KDA POR PARTIDA
+    JUNTO CON LOS RANKING POR PARTIDA UN ANUNCIO AL INICIO Y AL FINAL DE LA SECCION CENTRAL UN BANNER HORIZONTAL, TAMBIEN UNO AL INICIO-->
+    <!--PARTIDA EN VIVO MOSTRARA UNA TABLA CON TODOS LOS CAMPEONES QUE SE ESTAN USANDO EN ESE GAME, EL TIPO DE GAME, LA LIGA DE CADA UNO Y ESTADISTICAS GENERALES-->
+    <!--EN PARTIDA EN VIVO DADO QUE VA SOBRAR MAS ESPACIO, SE COLOCARAN MAS ANUNCIOS-->
+    <section class="row border">
+      <section class="col-2 border">Perfil</section>
+      <section class="col-1 border">SOLO/DUO Q <br></section>
+      <section class="col-1 border">FLEX <br></section>
+      <section class="col-4 border">WinRateRolCola</section>
+      <section class="col-2 border">EstadisticasCampeones</section>
+      <section class="col-2 border"><span class="btn">C.Panel</span></section>
+    </section>
+    <!--RECORDATORIO: AQUI IRIA UNA SECCION DESPLEGABLE OCULTA QUE ES EL AREA DE TRABAJO DEL C.PANEL SE DEBE ADAPTAR AL TAMAÑO DE SU CONTENIDO Y TENER COMO CERRARLA UNA VEZ USADA-->
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Partidas</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false"><span>Partida en vivo</span></a>
+      </li>
+    </ul>
+    <section class="tab-content" id="myTabContent">
+      <section class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+        <!--CONTENIDO historial-->
+        <section class="row border">
+          <section class="col-2 border">ListaDePartidasSeleccionables(ultimas 20)</section>
+          <section class="col-8 border">DetallesDePartidaMuchasEstadisticas</section>
+          <section class="col-2 border">PublicidadYTop3_DañoCausado_Recibido_Oro_KDA</section>
+        </section>
+      </section>
+      <section class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+        <!--CONTENIDO LiveGames-->
+
+        <!--FILA SUPERIOR:INFO DE TIPO DE PARTIDA Y TIEMPO DE LA MISMA + boton para expectar a la derecha(BETA)-->
+        <!--FILA (titulo) CON(columnas) -EQUIPO ROJO O AZUL + MMR PROMEDIO -RANGO- WINRATE PARA ESA COLA-INFO CAMPEON,
+        BANS) -->
+        <!--FILAS AUTOGENERADAS CON NOMBRES DE INVOCADOR + FOTO CAMPEON, HECHIZOS Y RUNAS CLAVE + LOS DATOS CORRESPONDIENTES DE ARRIBA-->
+        <!--DOS TABLAS UNA PARA CADA EQUIPO-->
+      </section>
+    </section>
+
+    <section class="row justify-content-center border">
+        <img src="img/pubpruebas/horizontal1d.png" alt="">
+    </section>
+    <footer class="row border border-warning border-left-0 border-right-0 border-bottom-0 pie-index align-content-start fixed-bottom">
+      <section class="col-5  ml-2 align-self-center">
+        <address>
+          <a class="m-2" href="#">Acerda de</a>
+          <a class="m-2" href="#">Ayuda</a>
+          <a class="m-2" href="#">Sugerencias</a>
+          <a class="m-2" target="_blank" href="https://play.las.leagueoflegends.com/es_AR" >RIOT</a>
+          <a class="m-2" href="#">Desarrollador</a>
+        </address>
+      </section>
+
+      <section class="row">
+        <small class="col align-self-center text-light">© 2012-2018 LegendsOP datos basados en Ligue Of Legends North America</small>
+      </section>
+    </footer>
+
+  </div>
+
+  <!-- FIN CONTENIDO-->
+  <script src="../js/jquery-3.3.1.slim.min.js"></script>
+  <script src="../js/popper.min.js"></script>
+  <script src="../js/bootstrap.js"></script>
+</body>
+</html>

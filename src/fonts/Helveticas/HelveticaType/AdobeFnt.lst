@@ -1,0 +1,1379 @@
+%!Adobe-FontList 1.04
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigCondObl
+FamilyName:Helvetica Neue
+StyleName:27 Ultra Light Cond Oblique
+FullName:Helvetica 27 Ultra Light Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hlao____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:36095
+WeightClass:100
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigCondObl
+NumMMAxes:0
+OutlineFileName:\hlao____.pfm
+FileLength:1329
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigExtObl
+FamilyName:Helvetica Neue
+StyleName:23 Ultra Light Extended Oblique
+FullName:Helvetica 23 Ultra Light Extended Oblique
+WritingScript:Roman
+OutlineFileName:\hlavo___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37739
+WeightClass:100
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigExtObl
+NumMMAxes:0
+OutlineFileName:\hlavo___.pfm
+FileLength:1051
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigExt
+FamilyName:Helvetica Neue
+StyleName:23 Ultra Light Extended
+FullName:Helvetica 23 Ultra Light Extended
+WritingScript:Roman
+OutlineFileName:\hlav____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28138
+WeightClass:100
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigExt
+NumMMAxes:0
+OutlineFileName:\hlav____.pfm
+FileLength:1048
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigCond
+FamilyName:Helvetica Neue
+StyleName:27 Ultra Light Condensed
+FullName:Helvetica 27 Ultra Light Condensed
+WritingScript:Roman
+OutlineFileName:\hla_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27310
+WeightClass:100
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigCond
+NumMMAxes:0
+OutlineFileName:\hla_____.pfm
+FileLength:1326
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldCondObl
+FamilyName:Helvetica Neue
+StyleName:77 Bold Condensed Oblique
+FullName:Helvetica 77 Bold Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hlbco___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:39070
+WeightClass:700
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldCondObl
+NumMMAxes:0
+OutlineFileName:\hlbco___.pfm
+FileLength:1218
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldCond
+FamilyName:Helvetica Neue
+StyleName:77 Bold Condensed
+FullName:Helvetica 77 Bold Condensed
+WritingScript:Roman
+OutlineFileName:\hlbc____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28975
+WeightClass:700
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldCond
+NumMMAxes:0
+OutlineFileName:\hlbc____.pfm
+FileLength:1215
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:76 Bold Italic
+FullName:Helvetica 76 Bold Italic
+WritingScript:Roman
+OutlineFileName:\hlbi____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29278
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldItalic
+NumMMAxes:0
+OutlineFileName:\hlbi____.pfm
+FileLength:1060
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackItalic
+FamilyName:Helvetica Neue
+StyleName:96 Black Italic
+FullName:Helvetica 96 Black Italic
+WritingScript:Roman
+OutlineFileName:\hlbli___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30260
+WeightClass:900
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackItalic
+NumMMAxes:0
+OutlineFileName:\hlbli___.pfm
+FileLength:1101
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Black
+FamilyName:Helvetica Neue
+StyleName:95 Black
+FullName:Helvetica 95 Black
+WritingScript:Roman
+OutlineFileName:\hlbl____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30559
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Black
+NumMMAxes:0
+OutlineFileName:\hlbl____.pfm
+FileLength:1099
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldOutline
+FamilyName:Helvetica Neue
+StyleName:75 Bold Outline
+FullName:Helvetica 75 Bold Outline
+WritingScript:Roman
+OutlineFileName:\hlbou___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30663
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldOutline
+NumMMAxes:0
+OutlineFileName:\hlbou___.pfm
+FileLength:1360
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldExtObl
+FamilyName:Helvetica Neue
+StyleName:73 Bold Extended Oblique
+FullName:Helvetica 73 Bold Extended Oblique
+WritingScript:Roman
+OutlineFileName:\hlbvo___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38979
+WeightClass:700
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldExtObl
+NumMMAxes:0
+OutlineFileName:\hlbvo___.pfm
+FileLength:1052
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldExt
+FamilyName:Helvetica Neue
+StyleName:73 Bold Extended
+FullName:Helvetica 73 Bold Extended
+WritingScript:Roman
+OutlineFileName:\hlbv____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29135
+WeightClass:700
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldExt
+NumMMAxes:0
+OutlineFileName:\hlbv____.pfm
+FileLength:1049
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:75 Bold
+FullName:Helvetica 75 Bold
+WritingScript:Roman
+OutlineFileName:\hlb_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28166
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Bold
+NumMMAxes:0
+OutlineFileName:\hlb_____.pfm
+FileLength:1086
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-CondensedObl
+FamilyName:Helvetica Neue
+StyleName:57 Condensed Oblique
+FullName:Helvetica 57 Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hlco____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38375
+WeightClass:400
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-CondensedObl
+NumMMAxes:0
+OutlineFileName:\hlco____.pfm
+FileLength:1211
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Condensed
+FamilyName:Helvetica Neue
+StyleName:57 Condensed
+FullName:Helvetica 57 Condensed
+WritingScript:Roman
+OutlineFileName:\hlc_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28464
+WeightClass:400
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Condensed
+NumMMAxes:0
+OutlineFileName:\hlc_____.pfm
+FileLength:1208
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyCondObl
+FamilyName:Helvetica Neue
+StyleName:87 Heavy Condensed Oblique
+FullName:Helvetica 87 Heavy Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hlhco___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:43479
+WeightClass:850
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyCondObl
+NumMMAxes:0
+OutlineFileName:\hlhco___.pfm
+FileLength:1344
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyCond
+FamilyName:Helvetica Neue
+StyleName:87 Heavy Condensed
+FullName:Helvetica 87 Heavy Condensed
+WritingScript:Roman
+OutlineFileName:\hlhc____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:31225
+WeightClass:850
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyCond
+NumMMAxes:0
+OutlineFileName:\hlhc____.pfm
+FileLength:1341
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyItalic
+FamilyName:Helvetica Neue
+StyleName:86 Heavy Italic
+FullName:Helvetica 86 Heavy Italic
+WritingScript:Roman
+OutlineFileName:\hlhi____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30064
+WeightClass:850
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyItalic
+NumMMAxes:0
+OutlineFileName:\hlhi____.pfm
+FileLength:1086
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyExtObl
+FamilyName:Helvetica Neue
+StyleName:83 Heavy Extended Oblique
+FullName:Helvetica 83 Heavy Extended Oblique
+WritingScript:Roman
+OutlineFileName:\hlhvo___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:41083
+WeightClass:850
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyExtObl
+NumMMAxes:0
+OutlineFileName:\hlhvo___.pfm
+FileLength:1054
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyExt
+FamilyName:Helvetica Neue
+StyleName:83 Heavy Extended
+FullName:Helvetica 83 Heavy Extended
+WritingScript:Roman
+OutlineFileName:\hlhv____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30200
+WeightClass:850
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyExt
+NumMMAxes:0
+OutlineFileName:\hlhv____.pfm
+FileLength:1051
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Heavy
+FamilyName:Helvetica Neue
+StyleName:85 Heavy
+FullName:Helvetica 85 Heavy
+WritingScript:Roman
+OutlineFileName:\hlh_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29337
+WeightClass:850
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Heavy
+NumMMAxes:0
+OutlineFileName:\hlh_____.pfm
+FileLength:1100
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:56 Italic
+FullName:Helvetica 56 Italic
+WritingScript:Roman
+OutlineFileName:\hli_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27900
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Italic
+NumMMAxes:0
+OutlineFileName:\hli_____.pfm
+FileLength:1068
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ExtBlackCondObl
+FamilyName:Helvetica Neue
+StyleName:107 Extra Black Cond Oblique
+FullName:Helvetica 107 Extra Black Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hljo____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:45647
+WeightClass:950
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ExtBlackCondObl
+NumMMAxes:0
+OutlineFileName:\hljo____.pfm
+FileLength:1437
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ExtBlackCond
+FamilyName:Helvetica Neue
+StyleName:107 Extra Black Condensed
+FullName:Helvetica 107 Extra Black Condensed
+WritingScript:Roman
+OutlineFileName:\hlj_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:32423
+WeightClass:950
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ExtBlackCond
+NumMMAxes:0
+OutlineFileName:\hlj_____.pfm
+FileLength:1434
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightCondObl
+FamilyName:Helvetica Neue
+StyleName:47 Light Condensed Oblique
+FullName:Helvetica 47 Light Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hllco___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38122
+WeightClass:300
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightCondObl
+NumMMAxes:0
+OutlineFileName:\hllco___.pfm
+FileLength:1195
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightCond
+FamilyName:Helvetica Neue
+StyleName:47 Light Condensed
+FullName:Helvetica 47 Light Condensed
+WritingScript:Roman
+OutlineFileName:\hllc____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28336
+WeightClass:300
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightCond
+NumMMAxes:0
+OutlineFileName:\hllc____.pfm
+FileLength:1192
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:46 Light Italic
+FullName:Helvetica 46 Light Italic
+WritingScript:Roman
+OutlineFileName:\hlli____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28615
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightItalic
+NumMMAxes:0
+OutlineFileName:\hlli____.pfm
+FileLength:1065
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightExtObl
+FamilyName:Helvetica Neue
+StyleName:43 Light Extended Oblique
+FullName:Helvetica 43 Light Extended Oblique
+WritingScript:Roman
+OutlineFileName:\hllvo___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38953
+WeightClass:300
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightExtObl
+NumMMAxes:0
+OutlineFileName:\hllvo___.pfm
+FileLength:1045
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightExt
+FamilyName:Helvetica Neue
+StyleName:43 Light Extended
+FullName:Helvetica 43 Light Extended
+WritingScript:Roman
+OutlineFileName:\hllv____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28962
+WeightClass:300
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightExt
+NumMMAxes:0
+OutlineFileName:\hllv____.pfm
+FileLength:1042
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:45 Light
+FullName:Helvetica 45 Light
+WritingScript:Roman
+OutlineFileName:\hll_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28056
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Light
+NumMMAxes:0
+OutlineFileName:\hll_____.pfm
+FileLength:1099
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumCondObl
+FamilyName:Helvetica Neue
+StyleName:67 Medium Condensed Oblique
+FullName:Helvetica 67 Medium Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hlmco___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38826
+WeightClass:500
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumCondObl
+NumMMAxes:0
+OutlineFileName:\hlmco___.pfm
+FileLength:1405
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumCond
+FamilyName:Helvetica Neue
+StyleName:67 Medium Condensed
+FullName:Helvetica 67 Medium Condensed
+WritingScript:Roman
+OutlineFileName:\hlmc____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28923
+WeightClass:500
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumCond
+NumMMAxes:0
+OutlineFileName:\hlmc____.pfm
+FileLength:1402
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumItalic
+FamilyName:Helvetica Neue
+StyleName:66 Medium Italic
+FullName:Helvetica 66 Medium Italic
+WritingScript:Roman
+OutlineFileName:\hlmi____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29084
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumItalic
+NumMMAxes:0
+OutlineFileName:\hlmi____.pfm
+FileLength:1063
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumExtObl
+FamilyName:Helvetica Neue
+StyleName:63 Medium Extended Oblique
+FullName:Helvetica 63 Medium Extended Oblique
+WritingScript:Roman
+OutlineFileName:\hlmvo___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38524
+WeightClass:500
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumExtObl
+NumMMAxes:0
+OutlineFileName:\hlmvo___.pfm
+FileLength:1047
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumExt
+FamilyName:Helvetica Neue
+StyleName:63 Medium Extended
+FullName:Helvetica 63 Medium Extended
+WritingScript:Roman
+OutlineFileName:\hlmv____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28687
+WeightClass:500
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumExt
+NumMMAxes:0
+OutlineFileName:\hlmv____.pfm
+FileLength:1044
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:65 Medium
+FullName:Helvetica 65 Medium
+WritingScript:Roman
+OutlineFileName:\hlm_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28589
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Medium
+NumMMAxes:0
+OutlineFileName:\hlm_____.pfm
+FileLength:1093
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Roman
+FamilyName:Helvetica Neue
+StyleName:55 Roman
+FullName:Helvetica 55 Roman
+WritingScript:Roman
+OutlineFileName:\hlr_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27372
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Roman
+NumMMAxes:0
+OutlineFileName:\hlr_____.pfm
+FileLength:1091
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinCondObl
+FamilyName:Helvetica Neue
+StyleName:37 Thin Condensed Oblique
+FullName:Helvetica 37 Thin Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hltco___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37337
+WeightClass:200
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinCondObl
+NumMMAxes:0
+OutlineFileName:\hltco___.pfm
+FileLength:1329
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinCond
+FamilyName:Helvetica Neue
+StyleName:37 Thin Condensed
+FullName:Helvetica 37 Thin Condensed
+WritingScript:Roman
+OutlineFileName:\hltc____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27988
+WeightClass:200
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinCond
+NumMMAxes:0
+OutlineFileName:\hltc____.pfm
+FileLength:1326
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinItalic
+FamilyName:Helvetica Neue
+StyleName:36 Thin Italic
+FullName:Helvetica 36 Thin Italic
+WritingScript:Roman
+OutlineFileName:\hlti____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28858
+WeightClass:200
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinItalic
+NumMMAxes:0
+OutlineFileName:\hlti____.pfm
+FileLength:1083
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinExtObl
+FamilyName:Helvetica Neue
+StyleName:33 Thin Extended Oblique
+FullName:Helvetica 33 Thin Extended Oblique
+WritingScript:Roman
+OutlineFileName:\hltvo___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37665
+WeightClass:200
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinExtObl
+NumMMAxes:0
+OutlineFileName:\hltvo___.pfm
+FileLength:1051
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinExt
+FamilyName:Helvetica Neue
+StyleName:33 Thin Extended
+FullName:Helvetica 33 Thin Extended
+WritingScript:Roman
+OutlineFileName:\hltv____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28217
+WeightClass:200
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinExt
+NumMMAxes:0
+OutlineFileName:\hltv____.pfm
+FileLength:1048
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:35 Thin
+FullName:Helvetica 35 Thin
+WritingScript:Roman
+OutlineFileName:\hlt_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29394
+WeightClass:200
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Thin
+NumMMAxes:0
+OutlineFileName:\hlt_____.pfm
+FileLength:1041
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLightItal
+FamilyName:Helvetica Neue
+StyleName:26 Ultra Light Italic
+FullName:Helvetica 26 Ultra Light Italic
+WritingScript:Roman
+OutlineFileName:\hluli___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28685
+WeightClass:100
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLightItal
+NumMMAxes:0
+OutlineFileName:\hluli___.pfm
+FileLength:1085
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:25 Ultra Light
+FullName:Helvetica 25 Ultra Light
+WritingScript:Roman
+OutlineFileName:\hlul____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28140
+WeightClass:100
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLight
+NumMMAxes:0
+OutlineFileName:\hlul____.pfm
+FileLength:1049
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ExtendedObl
+FamilyName:Helvetica Neue
+StyleName:53 Extended Oblique
+FullName:Helvetica 53 Extended Oblique
+WritingScript:Roman
+OutlineFileName:\hlvo____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37505
+WeightClass:400
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ExtendedObl
+NumMMAxes:0
+OutlineFileName:\hlvo____.pfm
+FileLength:1045
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Extended
+FamilyName:Helvetica Neue
+StyleName:53 Extended
+FullName:Helvetica 53 Extended
+WritingScript:Roman
+OutlineFileName:\hlv_____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28141
+WeightClass:400
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Extended
+NumMMAxes:0
+OutlineFileName:\hlv_____.pfm
+FileLength:1042
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackCondObl
+FamilyName:Helvetica Neue
+StyleName:97 Black Condensed Oblique
+FullName:Helvetica 97 Black Condensed Oblique
+WritingScript:Roman
+OutlineFileName:\hlzco___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:45448
+WeightClass:900
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackCondObl
+NumMMAxes:0
+OutlineFileName:\hlzco___.pfm
+FileLength:1247
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackCond
+FamilyName:Helvetica Neue
+StyleName:97 Black Condensed
+FullName:Helvetica 97 Black Condensed
+WritingScript:Roman
+OutlineFileName:\hlzc____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:32306
+WeightClass:900
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackCond
+NumMMAxes:0
+OutlineFileName:\hlzc____.pfm
+FileLength:1244
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackExtObl
+FamilyName:Helvetica Neue
+StyleName:93 Black Extended Oblique
+FullName:Helvetica 93 Black Extended Oblique
+WritingScript:Roman
+OutlineFileName:\hlzvo___.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:45177
+WeightClass:900
+WidthClass:7
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackExtObl
+NumMMAxes:0
+OutlineFileName:\hlzvo___.pfm
+FileLength:1049
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackExt
+FamilyName:Helvetica Neue
+StyleName:93 Black Extended
+FullName:Helvetica 93 Black Extended
+WritingScript:Roman
+OutlineFileName:\hlzv____.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:32483
+WeightClass:900
+WidthClass:7
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackExt
+NumMMAxes:0
+OutlineFileName:\hlzv____.pfm
+FileLength:1046
+%EndFont
+

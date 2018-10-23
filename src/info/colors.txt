@@ -1,0 +1,2 @@
+background_cabecera: #002146 - R0 G33 B70 - H212 S100 B27
+borderUP-NAV: degrade1 #fdcf71 degrade2 #fbdc8d degrade3#fdcf71   

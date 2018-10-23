@@ -1,0 +1,461 @@
+%!Adobe-FontList 1.07
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSansSerif
+FamilyName:Rotis Sans Serif
+StyleName:55
+FullName:Rotis Sans Serif 55
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSer.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:24971
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSansSerif
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSer.pfm
+FileLength:1158
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSansSerif-Bold
+FamilyName:Rotis Sans Serif
+StyleName:65 Bold
+FullName:Rotis Sans Serif Bold 65
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerBol.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25245
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSansSerif-Bold
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerBol.pfm
+FileLength:1172
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSansSerif-ExtraBold
+FamilyName:Rotis Sans Serif
+StyleName:75 Extra Bold
+FullName:Rotis Sans Serif Extra Bold 75
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerExtBol.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25671
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSansSerif-ExtraBold
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerExtBol.pfm
+FileLength:1182
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSansSerif-Italic
+FamilyName:Rotis Sans Serif
+StyleName:56 Italic
+FullName:Rotis Sans Serif Italic 56
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerIta.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:26088
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSansSerif-Italic
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerIta.pfm
+FileLength:1248
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSansSerif-Light
+FamilyName:Rotis Sans Serif
+StyleName:45 Light
+FullName:Rotis Sans Serif Light 45
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerLig.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:24983
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSansSerif-Light
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerLig.pfm
+FileLength:1174
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSansSerif-LightItalic
+FamilyName:Rotis Sans Serif
+StyleName:46 Light Italic
+FullName:Rotis Sans Serif Light Italic 46
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerLigIta.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25297
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSansSerif-LightItalic
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSanSerLigIta.pfm
+FileLength:1214
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSemiSans
+FamilyName:Rotis Semi Sans
+StyleName:55
+FullName:Rotis SemiSans 55
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSan.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25190
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSemiSans
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSan.pfm
+FileLength:1224
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSemiSans-Bold
+FamilyName:Rotis Semi Sans
+StyleName:65 Bold
+FullName:Rotis SemiSans Bold 65
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanBol.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25344
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSemiSans-Bold
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanBol.pfm
+FileLength:1302
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSemiSans-ExtraBold
+FamilyName:Rotis Semi Sans
+StyleName:75 Extra Bold
+FullName:Rotis SemiSans Extra Bold 75
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanExtBol.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25619
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSemiSans-ExtraBold
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanExtBol.pfm
+FileLength:1220
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSemiSans-Italic
+FamilyName:Rotis Semi Sans
+StyleName:56 Italic
+FullName:Rotis SemiSans Italic 56
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanIta.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25775
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSemiSans-Italic
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanIta.pfm
+FileLength:1238
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSemiSans-Light
+FamilyName:Rotis Semi Sans
+StyleName:45 Light
+FullName:Rotis SemiSans Light 45
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanLig.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:24652
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSemiSans-Light
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanLig.pfm
+FileLength:1200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSemiSans-LightItalic
+FamilyName:Rotis Semi Sans
+StyleName:46 Light Italic
+FullName:Rotis SemiSans Light Italic 46
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanLigIta.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:25341
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSemiSans-LightItalic
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSanLigIta.pfm
+FileLength:1204
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSemiSerif
+FamilyName:Rotis Semi Serif
+StyleName:55
+FullName:Rotis SemiSerif 55
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSer.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29178
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSemiSerif
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSer.pfm
+FileLength:1374
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSemiSerif-Bold
+FamilyName:Rotis Semi Serif
+StyleName:65 Bold
+FullName:Rotis SemiSerif Bold 65
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSerBol.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29065
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSemiSerif-Bold
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSemSerBol.pfm
+FileLength:1568
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSerif
+FamilyName:Rotis Serif
+StyleName:55
+FullName:Rotis Serif 55
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSer.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30913
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSerif
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSer.pfm
+FileLength:1310
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSerif-Bold
+FamilyName:Rotis Serif
+StyleName:65 Bold
+FullName:Rotis Serif Bold 65
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSerBol.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30364
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSerif-Bold
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSerBol.pfm
+FileLength:1328
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RotisSerif-Italic
+FamilyName:Rotis Serif
+StyleName:56 Italic
+FullName:Rotis Serif Italic 56
+WritingScript:Roman
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSerIta.pfb
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:31644
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:RotisSerif-Italic
+NumMMAxes:0
+OutlineFileName:E:\FUENTES\Type1\rotis_family_fonts\RotisSerIta.pfm
+FileLength:1324
+%EndFont
+

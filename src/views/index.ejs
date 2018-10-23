@@ -1,0 +1,89 @@
+<% include partials/_header %>
+
+
+    <section class="row contenido-index justify-content-center">
+      <section class="col-2">
+        <section class="row justify-content-start mt-5">
+          <img src="img/pubpruebas/vertical1.png" alt="">
+        </section>
+      </section>
+      <section class="col-7">
+        <!--LOGO-->
+        <section class="row justify-content-center">
+          <img class="index-baner-z" src="img/banners/bannerwds.jpg" alt="">
+        </section>
+        <!--BUSCADOR-->
+        <section class="row justify-content-center" style="height: 50px;">
+          <form class="mt-5 mb-5 col-8 custom_search" action="/profile" method="POST">
+            <input class="form-control text-secondary shadow custom_input" maxlength=65 type="text" name="summoners" value="" placeholder="nombres de prueba: Wolfur o YahooRespuestas">
+            <section class="btn-group custom_btn_1 mt-2" role="group">
+              <button type="submit" name="summoner" class="btn btn-outline-warning"><span>BusquedaOP</span></button>
+              <button type="button" class="btn btn-outline-warning" data-toggle="modal" data-target="#modalregion"><span>LAS</span></button>
+            </section>
+          </form>
+        </section>
+        <!--PUBLICIDAD-->
+        <section class="clearfix row justify-content-center">
+          <img class="img-fluid custom-m-1" src="img/pubpruebas/horizontal1d.png" alt="">
+        </section>
+
+
+        <!--carousel-->
+        <div id="carouselExampleControls" class="carousel slide row mt-5" data-ride="carousel">
+          <div class="carousel-inner">
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Siguiente</span>
+            </a>
+            <div class="carousel-item active">
+              <!--Aca van tarjetas (cards) con imagenes del contenido de la web y como usarlo-->
+              <div class="card">
+                <div class="card-header">
+                  <span>LEGENDSOP - TIPS - PARTIDAS EN VIVO</span>
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">Consulta facilmente datos de tu partida o de la que tu quieras en VIVO!</h5>
+                  <img class="card-img d-block w-70" src="" alt="Primera">
+                </div>
+              </div>
+
+            </div>
+            <div class="carousel-item">
+              <div class="card">
+                <div class="card-header">
+                  <span>LEGENDSOP - TIPS - ESTADISICAS DE CAMPEONES</span>
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">Analiza que campeones son mas rentables en cada rol y cada liga,cuales los objetos que mas se equipan, con cuales se gana mas! SE TU PROPIO COACH!</h5>
+                  <img class="card-img d-block w-70" src="" alt="Segunda">
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="card">
+                <div class="card-header">
+                  <span>LEGENDSOP - TIPS - PARTIDAS PRO</span>
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">Hechale un vistaso a los campeones y armados que se estan haciendo los profesionales en sus juegos de SOLOQ</h5>
+                  <img class="card-img d-block w-70" src="" alt="Tercera">
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+
+      </section>
+      <section class="col-2">
+        <section class="row justify-content-end mt-5">
+          <img src="img/pubpruebas/vertical1.png" alt="">
+        </section>
+      </section>
+    </section>
+  <% include partials/_foother %>
