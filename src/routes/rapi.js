@@ -1,37 +1,48 @@
-const getJSON = require('get-json')
+const remoteJson = require('remote-json')
 
 //---------------------API CONFIG--------------------------
 //apikey
-const apikey ="RGAPI-e89fa97b-9c37-4c26-933c-6d842442f5eb";
+const apikey ="RGAPI-3e798c10-35fe-4500-a23c-26e2971733f8";
 //trayendo los datos desde riot
 
-
-function  get_sum_id(sumname, callback){
-  const urlsumbySumName = "https://la2.api.riotgames.com/lol/summoner/v3/summoners/by-name/" + sumname + "?api_key=" + apikey;
-  getJSON(urlsumbySumName, callback);
-
-  }
-
-function get_league_data(sumid, callback){
-  const urlgetleaguedata ="https://la2.api.riotgames.com/lol/league/v3/positions/by-summoner/"+ sumid + "?api_key="+ apikey;
-  getJSON(urlgetleaguedata, callback);
+function get_sum_id(sumname){
+  const url = "https://la2.api.riotgames.com/lol/summoner/v3/summoners/by-name/" + sumname + "?api_key=" + apikey;
+  // Así se promisifica una función (cuando el callback no sigue el estándar (err, result) => void, sino puedes usar una librería como Bluebird
+  return new Promise( function (resolve, reject){
+    remoteJson(url).get(function (err, res, body) {
+      if(err){ return reject(err) } // Tienes que retornar para detener la ejecución de la función
+      return resolve(body.id) // Igual aquí
+    })
+  })
 }
 
-function get_champion_mastery(sumid, champid, callback){
+function get_sum_data(sumname){
+  const url = "https://la2.api.riotgames.com/lol/summoner/v3/summoners/by-name/" + sumname + "?api_key=" + apikey;
+  // Así se promisifica una función (cuando el callback no sigue el estándar (err, result) => void, sino puedes usar una librería como Bluebird
+  return new Promise( function (resolve, reject){
+    remoteJson(url).get(function (err, res, body) {
+      if(err){ return reject(err) } // Tienes que retornar para detener la ejecución de la función
+      return resolve(body) // Igual aquí
+    })
+  })
 }
-function ingameverif(sumid){
+
+
+function get_league_data(sumid){
   const url ="https://la2.api.riotgames.com/lol/league/v3/positions/by-summoner/"+ sumid + "?api_key="+ apikey;
-     getJSON(url, callback);
-    }
-
-
-
-
-
-module.exports = {  get_sum_id, 
-                    get_league_data, 
-                    get_champion_mastery,
-                    ingameverif};
+   // Así se promisifica una función (cuando el callback no sigue el estándar (err, result) => void, sino puedes usar una librería como Bluebird
+   return new Promise( function (resolve, reject){
+    remoteJson(url).get(function (err, res, body) {
+      if(err){ return reject(err) } // Tienes que retornar para detener la ejecución de la función
+      return resolve(body) // Igual aquí
+    })
+  })
+}
+module.exports = {  get_sum_id,
+                    get_league_data,
+                    get_sum_data
+                    //ingameverif
+                  };
 /*
 formulas-------------------
 KDA-> (Kill / Muertes) + (Assist / Muertes)
